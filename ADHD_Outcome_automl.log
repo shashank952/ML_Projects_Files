@@ -1,0 +1,2 @@
+{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 0.005520826354062647}, "trial_time": 75.85985922813416, "wall_clock_time": 148.64869952201843, "validation_loss": 0.12348352083215552, "config": {"n_estimators": 4, "max_leaves": 4, "min_child_weight": 0.9999999999999993, "learning_rate": 0.09999999999999995, "subsample": 1.0, "colsample_bylevel": 1.0, "colsample_bytree": 1.0, "reg_alpha": 0.0009765625, "reg_lambda": 1.0}, "learner": "xgboost", "sample_size": 1330}
+{"curr_best_record_id": 0}

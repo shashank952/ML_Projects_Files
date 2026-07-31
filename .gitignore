@@ -1,0 +1,21 @@
+# Installers / OS artifacts
+*.sh
+*.sh.*
+*.deb
+*.gpg
+
+# Model weights & checkpoints (regenerable, too large for git)
+*.pth
+*.pt
+*.pkl
+*.npy
+*.fif
+
+# Jupyter auto-checkpoints
+.ipynb_checkpoints/
+
+# Local tooling
+.codegraph/
+
+# Accidental notebook export saved without extension
+Read!!!!
